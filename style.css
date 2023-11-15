@@ -1,0 +1,11 @@
+
+.custom-contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.custom-contact-form input,
+.custom-contact-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
